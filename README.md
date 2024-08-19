@@ -67,12 +67,12 @@ We evaluate the model using perplexity, which measures how well the model predic
 > 1. Clone the pyflink-poc repository:
 >
 > ```console
-> $ git clone ../    LLM_bigram_model
+> $ git clone https://github.com/Tuhinm2002/LLM_bigram_model.git
 > ```
 >
 > 2. Change to the project directory:
 > ```console
-> $ cd     LLM_bigram_model
+> $ cd LLM_bigram_model
 > ```
 >
 > 3. Install the dependencies:
